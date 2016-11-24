@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.1.9" icons="true" automaticImage="JPEG" always-add-relationships="false" 
+  generalizations="true" realizations="true" associations="true" dependencies="false" nesting-relationships="true" 
+  router="FAN">  
+  <class id="1" language="java" name="ubu.lsi.dms.agenda.ui.grafica.acciones.AccionNuevo" project="Agenda" 
+    file="/Agenda/src/ubu/lsi/dms/agenda/ui/grafica/acciones/AccionNuevo.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1045" y="46"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="ubu.lsi.dms.agenda.ui.grafica.acciones.AccionCancelar" project="Agenda" 
+    file="/Agenda/src/ubu/lsi/dms/agenda/ui/grafica/acciones/AccionCancelar.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1042" y="218"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="ubu.lsi.dms.agenda.ui.grafica.acciones.AccionInsertar" project="Agenda" 
+    file="/Agenda/src/ubu/lsi/dms/agenda/ui/grafica/acciones/AccionInsertar.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1051" y="421"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="ubu.lsi.dms.agenda.ui.grafica.acciones.AccionEditar" project="Agenda" 
+    file="/Agenda/src/ubu/lsi/dms/agenda/ui/grafica/acciones/AccionEditar.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1346" y="421"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="5" language="java" name="ubu.lsi.dms.agenda.ui.grafica.acciones.ICommand" project="Agenda" 
+    file="/Agenda/src/ubu/lsi/dms/agenda/ui/grafica/acciones/ICommand.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1051" y="561"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="6" language="java" name="ubu.lsi.dms.agenda.ui.grafica.acciones.AccionActualizar" project="Agenda" 
+    file="/Agenda/src/ubu/lsi/dms/agenda/ui/grafica/acciones/AccionActualizar.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1641" y="421"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="7" language="java" name="ubu.lsi.dms.agenda.ui.grafica.acciones.Accion" project="Agenda" 
+    file="/Agenda/src/ubu/lsi/dms/agenda/ui/grafica/acciones/Accion.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1480" y="203"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="8" language="java" name="ubu.lsi.dms.agenda.ui.grafica.acciones.AccionAtras" project="Agenda" 
+    file="/Agenda/src/ubu/lsi/dms/agenda/ui/grafica/acciones/AccionAtras.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1624" y="-108"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="9" language="java" name="ubu.lsi.dms.agenda.ui.grafica.acciones.AccionSiguiente" project="Agenda" 
+    file="/Agenda/src/ubu/lsi/dms/agenda/ui/grafica/acciones/AccionSiguiente.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1348" y="-104"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="10" language="java" name="ubu.lsi.dms.agenda.ui.grafica.acciones.IComandos" project="Agenda" 
+    file="/Agenda/src/ubu/lsi/dms/agenda/ui/grafica/acciones/IComandos.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1346" y="603"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="11" language="java" name="ubu.lsi.dms.agenda.ui.grafica.acciones.AccionConsultar" project="Agenda" 
+    file="/Agenda/src/ubu/lsi/dms/agenda/ui/grafica/acciones/AccionConsultar.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1043" y="-101"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <realization id="12">    
+    <end type="SOURCE" refId="3"/>    
+    <end type="TARGET" refId="7"/>  
+  </realization>  
+  <realization id="13">    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="7"/>  
+  </realization>  
+  <realization id="14">    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="7"/>  
+  </realization>  
+  <realization id="15">    
+    <end type="SOURCE" refId="8"/>    
+    <end type="TARGET" refId="7"/>  
+  </realization>  
+  <realization id="16">    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="7"/>  
+  </realization>  
+  <realization id="17">    
+    <end type="SOURCE" refId="11"/>    
+    <end type="TARGET" refId="7"/>  
+  </realization>  
+  <realization id="18">    
+    <end type="SOURCE" refId="9"/>    
+    <end type="TARGET" refId="7"/>  
+  </realization>  
+  <realization id="19">    
+    <end type="SOURCE" refId="1"/>    
+    <end type="TARGET" refId="7"/>  
+  </realization>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
